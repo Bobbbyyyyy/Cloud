@@ -1,11 +1,3 @@
------
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1028350993856991262/1155192344019214357/Volt_Nuker.png", width="200", height="200">
-</p>
-
------
-
 ### <p align="center">☁️ Cloud PFPS ☁️</p>
 
 <br><br>
