@@ -11,7 +11,7 @@ cyan = Col.cyan
 
 
 #------------CONFIG------------
-TOKEN = "MTE1NTEzOTkwOTg1ODkwMjAzNw.GIZFvn.WpqSQ-JwoVjMCWsJABSz1ziiGbr4HT4k8iiTpA"
+TOKEN = ""
 prefix = "."
 allowed = 1137704471154143354
 title = "Cloud Pfps"
