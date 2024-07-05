@@ -17,6 +17,7 @@ V2 SOON (w/ utoscrapper)
 ```
 + Clean UI
 + Fast execution
++ Already over 33k pfp
 ```
 
 -----
