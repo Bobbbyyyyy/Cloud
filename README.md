@@ -5,6 +5,7 @@
 <p align="center">
 <strong>
 Cloud pfps is an auto pfps sender bot
+V2 SOON (w/ utoscrapper)
 </strong>
 </p>
 <br>
@@ -25,7 +26,7 @@ Cloud pfps is an auto pfps sender bot
 
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1028350993856991262/1155604146284679208/Cloud.png">
+<img src="https://i.imgur.com/lnBL9Uu.png">
 </p>
    
 -----
@@ -33,7 +34,7 @@ Cloud pfps is an auto pfps sender bot
 ### <p align="center">⚙️ Installation ⚙️</p>
 
 <p align="center">
-<img src="https://media.discordapp.net/attachments/1028350993856991262/1155607685543239851/tuto.png">
+<img src="https://i.imgur.com/8Y3TEwg.png">
 </p>
    
 -----
@@ -47,5 +48,3 @@ Cloud pfps is an auto pfps sender bot
 <br><br>
 
 -----
-
-### <p align="center">README template by billythegoat356</p>
